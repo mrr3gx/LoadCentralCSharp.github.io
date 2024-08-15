@@ -1,10 +1,10 @@
 ﻿ProductNetwork,ProductPromoCode,ProductDescription,ProductPrice,ProductValidity
 CIGNAL,CIGNALSD450,59 SD Channels,450,1 month
-CIGNAL,CIGNAL450,"5 HD Channels, 59 SD Channels",450,1 month
-CIGNAL,CIGNAL500,"9 HD Channels, 62 SD Channels",500,1 month
-CIGNAL,CIGNAL600,"15 HD Channels, 67 SD Channels",600,1 month
-CIGNAL,CIGNAL800,"18 HD Channels, 73 SD Channels",800,1 month
-CIGNAL,CIGNAL1000,"21 HD Channels, 80 SD Channels",1000,1 month
+CIGNAL,CIGNAL450,5 HD Channels 59 SD Channels,450,1 month
+CIGNAL,CIGNAL500,9 HD Channels 62 SD Channels,500,1 month
+CIGNAL,CIGNAL600,15 HD Channels 67 SD Channels,600,1 month
+CIGNAL,CIGNAL800,18 HD Channels 73 SD Channels,800,1 month
+CIGNAL,CIGNAL1000,21 HD Channels 80 SD Channels,1000,1 month
 DITO,DITO15,15 e-Load,15,1 year
 DITO,DITO20,20 e-Load,20,1 year
 DITO,DITO30,30 e-Load,30,1 year
@@ -22,33 +22,33 @@ DITO,DITO1000,1000 e-Load,1000,1 year
 GLOBE,GMX10,10 regular load,10,365 Days
 GLOBE,GOSURFMB10,Consumable 40MB mobile internet + FREE 200MB of music streaming via Spotify,10,1 Day
 GLOBE,GOCALL10,Unli Call to All Network Valid For 1day ( For Globe Prepaid Subs. Only-Must be registered first to Go Promos. ),10,1 Day
-GLOBE,GOKOREAN10,"1GB  Data for Vlive,Viu, YouTube, NetFlix, WeTV and Viki Valid for 1day ( for Globe Prepaid Subs. Only-Must be registered first to Go Promos. )",10,1 Day
-GLOBE,GOLEARN10,"1GB Data for  YouTube Learning, Wikipedia, Google Suite and Canva Valid for 1day ( for Globe Prepaid Subs. Only-Must be registered first to Go Promos. )",10,1 Day
-GLOBE,GOLISTEN10,"1GB Data for YouTube Music, Spotify, SoundCloud and WeSing Valid for 1day ( for Globe Prepaid Subs. Only-Must be registered first to Go Promos. )",10,1 Day
-GLOBE,GOPLAY10,"1GB Data for Mobile Legends, Clash of Clans, PUBG, Call of Duty, MU Origin 2, Legends of Runeterre and Twitch Valid for 1day ( for Globe Prepaid Subs. Only-Must be registered first to Go Promos. )",10,1 Day
-GLOBE,GORIDE10,"1GB Data for Grab, Google Map and Waze Valid for 1day  ( for Globe Prepaid Subs. Only-Must be registered first to Go Promos. )",10,1 Day
-GLOBE,GOSHARE10,"1GB Data for Facebook, Tiktok, Instagram, Twitter, Snapchat, Houseparty and Kumu Valid for 1day ( for Globe Prepaid Subs. Only-Must be registered first to Go Promos. )",10,1 Day
-GLOBE,GOSHOP10,"1GB Data for Lazada, Shoppe,Grab Food and Foodpanda Valid for 1day ( for Globe Prepaid Subs. Only-Must be registered first to Go Promos. )",10,1 Day
-GLOBE,GOWATCH10,"1GB Data for Youtube, Netflix, Viu, iWant, WeTV, HBOGo, GMovies and  NBA Valid for 1day ( Globe Prepaid Subs. Only-Must be registered first to Go Promos. )",10,1 Day
-GLOBE,GOWORK10,"1GB Data for Zoom, Yahoo Mail, MS Teams, WhatsApp, Viber and Telegram Valid for 1day ( Globe Subs. Only-Must be registered first to Go Promos. )",10,1 Day
-GLOBE,GOPINOY10,"1GB data for Kumu, iWantTFC, and Vivamax. ( Must be registered first to Go or Go+ promos )",10,1 Day
+GLOBE,GOKOREAN10,1GB  Data for VliveViu YouTube NetFlix WeTV and Viki Valid for 1day ( for Globe Prepaid Subs. Only-Must be registered first to Go Promos. ),10,1 Day
+GLOBE,GOLEARN10,1GB Data for  YouTube Learning Wikipedia Google Suite and Canva Valid for 1day ( for Globe Prepaid Subs. Only-Must be registered first to Go Promos. ),10,1 Day
+GLOBE,GOLISTEN10,1GB Data for YouTube Music Spotify SoundCloud and WeSing Valid for 1day ( for Globe Prepaid Subs. Only-Must be registered first to Go Promos. ),10,1 Day
+GLOBE,GOPLAY10,1GB Data for Mobile Legends Clash of Clans PUBG Call of Duty MU Origin 2 Legends of Runeterre and Twitch Valid for 1day ( for Globe Prepaid Subs. Only-Must be registered first to Go Promos. ),10,1 Day
+GLOBE,GORIDE10,1GB Data for Grab Google Map and Waze Valid for 1day  ( for Globe Prepaid Subs. Only-Must be registered first to Go Promos. ),10,1 Day
+GLOBE,GOSHARE10,1GB Data for Facebook Tiktok Instagram Twitter Snapchat Houseparty and Kumu Valid for 1day ( for Globe Prepaid Subs. Only-Must be registered first to Go Promos. ),10,1 Day
+GLOBE,GOSHOP10,1GB Data for Lazada ShoppeGrab Food and Foodpanda Valid for 1day ( for Globe Prepaid Subs. Only-Must be registered first to Go Promos. ),10,1 Day
+GLOBE,GOWATCH10,1GB Data for Youtube Netflix Viu iWant WeTV HBOGo GMovies and  NBA Valid for 1day ( Globe Prepaid Subs. Only-Must be registered first to Go Promos. ),10,1 Day
+GLOBE,GOWORK10,1GB Data for Zoom Yahoo Mail MS Teams WhatsApp Viber and Telegram Valid for 1day ( Globe Subs. Only-Must be registered first to Go Promos. ),10,1 Day
+GLOBE,GOPINOY10,1GB data for Kumu iWantTFC and Vivamax. ( Must be registered first to Go or Go+ promos ),10,1 Day
 GLOBE,GOSURF10,40MB of consumable mobile internet,10,1 Day
 GLOBE,GOSURFMB15,Consumable 100MB with FREE 30MB of Instagram,15,2 Days
 GLOBE,GOBOOST15,1 GB Data for Surfing Valid for 1day ( For Globe Prepaid Subs. Only-Must be registered first to Go Promos. ),15,1 Day
 GLOBE,HOMENETFLIX15,2GB Daily of Netflix  (for Home Prepaid Wifi Subs only),15,1 Day
 GLOBE,HOMERIOT15,2GB Daily of Riot  (for Home Prepaid Wifi Subs only),15,1 Day
 GLOBE,GOSURF15,100MB of consumable mobile internet + Free 30 MB Instagram,15,2 Days
-GLOBE,GOUNLI20,"Unlimited text to All Network, Unli Call Globe/TM, and 20MB (Maintain P1 load)",20,1 Day
-GLOBE,GOUNLI25,"Unlimited Calls to Globe/TM, Unlimited text to All Networks and Unli Viber chat valid for 1 day (Maintain P1 load)",25,1 Day
-GLOBE,CHATPLUS25,"15 IDD minutes to the US & Canada + ALL-Day access to FB Messenger, Viber, Kakaotalk, WeChat, WhatsAPP & Google Messenger",25,1 Day
-GLOBE,USSDGOUNLI30,"Unlimited calls to Globe/TM, unlimited texts to all networks and all day access (Viber, FB Messenger, Kakao, GMessage and other major chat apps like Line & WeChat)",30,2 Days
+GLOBE,GOUNLI20,Unlimited text to All Network Unli Call Globe/TM and 20MB (Maintain P1 load),20,1 Day
+GLOBE,GOUNLI25,Unlimited Calls to Globe/TM Unlimited text to All Networks and Unli Viber chat valid for 1 day (Maintain P1 load),25,1 Day
+GLOBE,CHATPLUS25,15 IDD minutes to the US & Canada + ALL-Day access to FB Messenger Viber Kakaotalk WeChat WhatsAPP & Google Messenger,25,1 Day
+GLOBE,USSDGOUNLI30,Unlimited calls to Globe/TM unlimited texts to all networks and all day access (Viber FB Messenger Kakao GMessage and other major chat apps like Line & WeChat),30,2 Days
 GLOBE,GOTIPIDD30,P30 worth of IDD calls,30,3 Days
-GLOBE,GOSURFMB30,"Consumable 300MB + 50MB for 1 chosen freebie( FB, Instagram, Viber or Snapchat)",30,2 Days
+GLOBE,GOSURFMB30,Consumable 300MB + 50MB for 1 chosen freebie( FB Instagram Viber or Snapchat),30,2 Days
 GLOBE,GOALLNET30,Unli calls and texts to all networks + 100MB data,30,1 Day
-GLOBE,GOSURF30,"Consumable 300MB + 50MB for 1 chosen freebie (FB, Viber, SnapChat or Instagram)",30,2 Days
-GLOBE,GOUNLI50,"Unli calls to Globe/TM, Unli text All Network , and 50MB of surfing valid for 3 days (Maintain P1 load)",50,3 Days
+GLOBE,GOSURF30,Consumable 300MB + 50MB for 1 chosen freebie (FB Viber SnapChat or Instagram),30,2 Days
+GLOBE,GOUNLI50,Unli calls to Globe/TM Unli text All Network  and 50MB of surfing valid for 3 days (Maintain P1 load),50,3 Days
 GLOBE,GOTIPIDD50,P50 worth of IDD calls,50,7 Days
-GLOBE,GOSURFMB50,"Consumable 2GB + 1GB Daily for 1 chosen freebie (GoWATCH&PLAY,GoSHARE&SHOP)",50,3 Days
+GLOBE,GOSURFMB50,Consumable 2GB + 1GB Daily for 1 chosen freebie (GoWATCH&PLAYGoSHARE&SHOP),50,3 Days
 GLOBE,GOALLNET50,Unli calls and texts to all networks + 300MB data,50,3 Days
 GLOBE,HOMESURF50,5GB data (Available for Globe at Home Prepaid WiFi only.),50,3 Days
 GLOBE,GOTIPIDD50,P50 worth of IDD calls,50,7 Days
@@ -58,58 +58,58 @@ GLOBE,SUPERSURF50,unlimited surfing for 1 day (Maintain P5 to use the service),5
 GLOBE,FAMSURF50,5GB (5GB Share open 3days),50,3 Days
 GLOBE,GO59,5GB for all sites + 1GB for GoWiFi and unli allnet texts,59,3 Days
 GLOBE,GOTSCOMBODD70,1GB data + Unli texts to all networks + 1GB GoWiFi Access + free GCash QR voucher + FREE 1GB/day GoSHARE&SHOP and GoWATCH&PLAY.,70,7 Days
-GLOBE,GO75,"5 GB to all Access Data, Unli Allnet Call and Text",75,3 Days
+GLOBE,GO75,5 GB to all Access Data Unli Allnet Call and Text,75,3 Days
 GLOBE,GCOMBODDPLA90,2GB data + Unli texts to all networks + 1GB GoWiFi Access + free GCash QR voucher + FREE 1GB/day GoSHARE&SHOP + GoWATCH&PLAY,90,7 Days
 GLOBE,GOWORK90,3GB Data + 1GB per day access to productivity tools  Valid for 7days ( Globe Prepaid Subs. Only ),90,7 Days
 GLOBE,GOUNLI95,Unli allnet texts + Unli allnet calls + 1GB data. ,95,7 Days
-GLOBE,GOWATCH99,"2.5GB Data for Youtube, Hooq, Netflix, D-Life, NBA, iWant, iFlix, Viu, One FC, Fox+",99,3 Days
-GLOBE,GOPLUS99,"8 GB All Access + 8 GB Choice of Content (GoWATCH, GoPLAY, GoSHARE, GoLEARN, & GoWORK) Total 16 GB, Unli Allnet Text",99,7 Days
+GLOBE,GOWATCH99,2.5GB Data for Youtube Hooq Netflix D-Life NBA iWant iFlix Viu One FC Fox+,99,3 Days
+GLOBE,GOPLUS99,8 GB All Access + 8 GB Choice of Content (GoWATCH GoPLAY GoSHARE GoLEARN & GoWORK) Total 16 GB Unli Allnet Text,99,7 Days
 GLOBE,GOWORKP99,1GB Data + 1GB per day access to productivity tools Plus Unli Calls and text to all networks Valid for 3days ( Globe Prepaid Subs. Only ),99,3 Days
 GLOBE,GMX100,100 regular load,100,365 Days
 GLOBE,GOTIPIDD100,P100 worth of idd calls,100,15 Days
 GLOBE,USSDGOTIPIDD100,Call 200+ countries for as low as P2.50/min,100,15 Days
 GLOBE,GO120,10GB data for all sites + Unli txts to all network  + Unli calls to Globe/TM + 2GB GoWIFI,120,7 Days
 GLOBE,SUPERSURF120,unlimited surfing for 3 days (Maintain P5 to use the service),120,3 Days
-GLOBE,GOPLUS129,"10 GB All Access + 8 GB Choice of Content (GoWATCH, GoPLAY, GoSHARE, GoLEARN, & GoWORK) Total 18 GB, Unli Allnet Text, Unli Intra Call",129,7 Days
+GLOBE,GOPLUS129,10 GB All Access + 8 GB Choice of Content (GoWATCH GoPLAY GoSHARE GoLEARN & GoWORK) Total 18 GB Unli Allnet Text Unli Intra Call,129,7 Days
 GLOBE,GO140,11GB data for all sites + Unli txts to all network  + Unli calls to Globe/TM + 2GB GoWIFI,140,7 Days
-GLOBE,GOPLUS149,"11 GB All Access + 8 GB Choice of Content (GoWATCH, GoPLAY, GoSHARE, GoLEARN, & GoWORK) Total 19 GB, Unli Allnet Text, Unli Allnet Call ",149,7 Days
+GLOBE,GOPLUS149,11 GB All Access + 8 GB Choice of Content (GoWATCH GoPLAY GoSHARE GoLEARN & GoWORK) Total 19 GB Unli Allnet Text Unli Allnet Call ,149,7 Days
 GLOBE,GOUNLI180,Unli allnet texts + Unli allnet calls + 2GB data.,180,15 Days
-GLOBE,MYBIZSURF199,"12GB data +2GB Facebook, Viber, Skype",199,7 Days
+GLOBE,MYBIZSURF199,12GB data +2GB Facebook Viber Skype,199,7 Days
 GLOBE,HOMESURF199,Up to 22 GB valid for 7 days. 15 GB + 1 GB Daily for YouTube. (Available for Globe at Home Prepaid WiFi only.),199,7 Days
 GLOBE,GOWORKP199,3GB Data + 1GB per day access to productivity tools Plus Unli Calls and text to all networks Valid for 7days ( Globe Prepaid Subs. Only ),199,7 Days
 GLOBE,FAMSURF199,30GB (23GB Share+7GB WLE 7days),199,7 Days
 GLOBE,SUPERSURF200,unlimited surfing for 5 days (Maintain P5 to use the service),200,5 Days
 GLOBE,GO250,15GB Data Access,250,15 Days
-GLOBE,GOPLUS250,"15 GB All Access + 15 GB Choice of Content (GoWATCH, GoPLAY, GoSHARE, GoLEARN, & GoWORK) Total 30 GB ",250,15 Days
-GLOBE,GOSURF299,"Consumable 2GB + 10GB access to choice of GoShare&Shop, GoWatch&Play or GoLive&Discover apps + 1GB GoWifi + Gcash Voucher",299,30 Days
+GLOBE,GOPLUS250,15 GB All Access + 15 GB Choice of Content (GoWATCH GoPLAY GoSHARE GoLEARN & GoWORK) Total 30 GB ,250,15 Days
+GLOBE,GOSURF299,Consumable 2GB + 10GB access to choice of GoShare&Shop GoWatch&Play or GoLive&Discover apps + 1GB GoWifi + Gcash Voucher,299,30 Days
 GLOBE,FAMSURF299,50GB (43GB Share+7GB WLE 7days),299,7 Days
 GLOBE,GMX350,350 regular load,350,365 Days
 GLOBE,GOUNLI350,Unli allnet texts + Unli allnet calls + 3GB data. ,350,30 Days
 GLOBE,GO400,25GB Data Access,400,15 Days
-GLOBE,GOPLUS400,"25 GB All Access + 15 GB Choice of Content (GoWATCH, GoPLAY, GoSHARE, GoLEARN, & GoWORK) Total 40 GB ",400,15 Days
+GLOBE,GOPLUS400,25 GB All Access + 15 GB Choice of Content (GoWATCH GoPLAY GoSHARE GoLEARN & GoWORK) Total 40 GB ,400,15 Days
 GLOBE,GMX450,450 regular load,450,365 Days
 GLOBE,GPSURF4ALL99,9GB shareable data for all valid for 7 days,499,7 Days
 GLOBE,FAMSURF499,80GB (65GB Share+15GB WLE 15days),499,15 Days
 GLOBE,GMX550,550 regular load,550,365 Days
 GLOBE,GOSURF599,5GB data + 10GB freebie of choice + 1GB GoWiFi Access + free GCash QR voucher,599,30 Days
-GLOBE,MYBIZSURF599,"40GB data +2GB Facebook, Viber, Skype",599,15 Days
+GLOBE,MYBIZSURF599,40GB data +2GB Facebook Viber Skype,599,15 Days
 GLOBE,HOMESURF599,30 GB + 1GB Daily Pillar of Choice*. (Available for Globe at Home Prepaid WiFi only.),99,30 Days
-GLOBE,GO5G99,"Unlimited 5G all-access data for surfing in 5G-ready areas. ( Must be registered first to a Go+ or Go90 and up promo, and must have a 5G-capable device, 5G SIM, and in 5G-ready area )",99,3 Days
+GLOBE,GO5G99,Unlimited 5G all-access data for surfing in 5G-ready areas. ( Must be registered first to a Go+ or Go90 and up promo and must have a 5G-capable device 5G SIM and in 5G-ready area ),99,3 Days
 GLOBE,GMX600,600 regular load,600,365 Days
 GLOBE,GMX700,700 regular load,700,365 Days
-GLOBE,MYBIZSURF799,"55GB data +2GB Facebook, Viber, Skype",799,30 Days
+GLOBE,MYBIZSURF799,55GB data +2GB Facebook Viber Skype,799,30 Days
 GLOBE,GMX900,900 regular load,900,365 Days
-GLOBE,GOSURF999,"10GB data access  + 10GB access to choice of GoShare&Shop, GoWatch&Play or GoLive&Discover apps + 1GB GoWifi + Gcash Voucher",999,30 Days
+GLOBE,GOSURF999,10GB data access  + 10GB access to choice of GoShare&Shop GoWatch&Play or GoLive&Discover apps + 1GB GoWifi + Gcash Voucher,999,30 Days
 GLOBE,SUPERSURF999,Unlimited surfing,999,10 Days
-GLOBE,MYBIZSURF999,"65GB data +2GB Facebook, Viber, Skype",999,30 Days
+GLOBE,MYBIZSURF999,65GB data +2GB Facebook Viber Skype,999,30 Days
 GLOBE,FAMSURF999,200GB (170GB Share+30GB WLE 30days),999,30 Days
 GLOBE,GoSURF1299,15GB data + 10GB freebie of choice + 1GB GoWiFi Access + free GCash QR voucher.,1299,30 Days
 GLOBE,HOMESURF1499,100 GB + 1 GB Daily for YouTube. (Available for Globe at Home Prepaid WiFi only.),1499,30 Days
 GLOBE,GoSURF1999,30GB data + 10GB freebie of choice + 1GB GoWiFi Access + free GCash QR voucher.,1999,30 Days
 GLOBE,GOSURF2499,50GB data + 10GB choice of apps + 1GB GoWiFi,2499,30 Days
 GLOBE,GPSURF4ALL249,20GB Shareable data for all valid for 7 days,4249,7 Days
-GLOBE,GO5G199,"Unlimited 5G all-access data for surfing in 5G-ready areas. ( Must be registered first to a Go+ or Go90 and up promo, and must have a 5G-capable device, 5G SIM, and in 5G-ready area )",199,7 Days
-GLOBE,GO5G299,"Unlimited 5G all-access data for surfing in 5G-ready areas. ( Must be registered first to a Go+ or Go90 and up promo, and must have a 5G-capable device, 5G SIM, and in 5G-ready area )",299,15 Days
+GLOBE,GO5G199,Unlimited 5G all-access data for surfing in 5G-ready areas. ( Must be registered first to a Go+ or Go90 and up promo and must have a 5G-capable device 5G SIM and in 5G-ready area ),199,7 Days
+GLOBE,GO5G299,Unlimited 5G all-access data for surfing in 5G-ready areas. ( Must be registered first to a Go+ or Go90 and up promo and must have a 5G-capable device 5G SIM and in 5G-ready area ),299,15 Days
 MERALCO,ILW110,,110,
 MERALCO,ILW220,,220,
 MERALCO,ILW330,,330,
@@ -121,110 +121,110 @@ PLDT,PLP60,,60,30 Days
 PLDT,PLP100,,100,30 Days
 PLDT,PLP115,,115,45 Days
 PLDT,PLP175,,175,60 Days
-PLDT,FAMLOADVP199,"Enhanced offer. 3 GB VIDEO PLUS EVERY DAY for YouTube, Netflix, Viu, GigaPlay, iWantTFC (Total 21 GB) + 7 GB Open Access Data for 7 days (subscription not included) ",199,7 Days
+PLDT,FAMLOADVP199,Enhanced offer. 3 GB VIDEO PLUS EVERY DAY for YouTube Netflix Viu GigaPlay iWantTFC (Total 21 GB) + 7 GB Open Access Data for 7 days (subscription not included) ,199,7 Days
 PLDT,FAMLOADVIDEO199,12GB open access + 1GB video per day for Youtube ,199,7 Days
 PLDT,PLP200,,200,60 Days
 PLDT,PLP300,,300,75 Days
 PLDT,PLP500,,500,120 Days
-PLDT,FAMLOADVP999,"Enhanced offer. 3 GB VIDEO PLUS EVERY DAY for YouTube, Netflix, Viu, GigaPlay, iWantTFC (Total 90 GB) + 30 GB Open Access Data for 30 days (subscription not included) ",999,30 Days
+PLDT,FAMLOADVP999,Enhanced offer. 3 GB VIDEO PLUS EVERY DAY for YouTube Netflix Viu GigaPlay iWantTFC (Total 90 GB) + 30 GB Open Access Data for 30 days (subscription not included) ,999,30 Days
 PLDT,FAMLOADVIDEO999,70GB open access + 1GB video per day for Youtube,999,30 Days
 PLDT,PLP1000,,1000,120 Days
 SATLITE,SATLITE499,66 Channels,499,30 Days
 SMART,SM20,20 airtime load,20,365 Days
-SMART,SMWAO20,"Unli AllNet SMS, 20 minutes Trinet calls, 150MB Open Access + 100MB/day FB and FB Messenger access, open to SPP",20,1 Day
-SMART,SMAOS20,"150MB Data + 100MB/day for Facebook and FB Messenger + Unlimited texts to all networks + 20 Min calls to Smart, TNT and Sun",20,1 Day
+SMART,SMWAO20,Unli AllNet SMS 20 minutes Trinet calls 150MB Open Access + 100MB/day FB and FB Messenger access open to SPP,20,1 Day
+SMART,SMAOS20,150MB Data + 100MB/day for Facebook and FB Messenger + Unlimited texts to all networks + 20 Min calls to Smart TNT and Sun,20,1 Day
 SMART,SMWP20,P20 SmartLoad valid for 365 days,20,30 Days
 SMART,SM30,30 airtime load,30,365 Days
-SMART,SMUCT30,"Unlimited calls to SMART, TNT and SUN Unlimited texts to All Networks 100MB for FB Messenger and Whatsapp",30,2 Days
+SMART,SMUCT30,Unlimited calls to SMART TNT and SUN Unlimited texts to All Networks 100MB for FB Messenger and Whatsapp,30,2 Days
 SMART,SMAOS30,30min Trinet Calls + Unli All-Net SMS + 300MB open access + 100MB/day for Facebook and FB Messenger,30,2 Days
-SMART,SMWALLIN30 ,"Unli AllNet SMS, 30 minutes Trinet calls, 300MB Open Access + 100MB FB and FB Messenger access valid for 2 days",30,2 Days
+SMART,SMWALLIN30 ,Unli AllNet SMS 30 minutes Trinet calls 300MB Open Access + 100MB FB and FB Messenger access valid for 2 days,30,2 Days
 SMART,SMALLNET30,100 MB + Unli Allnet Calls & Texts,30,1 Day
-SMART,TNTSAYA49,"100 MB ARAW-ARAW for FB, ML, IG, Tiktok + 500 MB + Unli Allnet Calls & Texts",49,7 DAYS
+SMART,TNTSAYA49,100 MB ARAW-ARAW for FB ML IG Tiktok + 500 MB + Unli Allnet Calls & Texts,49,7 DAYS
 SMART,SM50,50 airtime load,50,365 Days
-SMART,SMGS50,"1GB + 1GB EVERY DAY for YouTube, NBA, Cignal & iWant + UNLITEXT to ALL",50,3 Days
-SMART,SMBB50,"1GB + 1GB EVERY DAY for YouTube, NBA, Cignal & iWant + UNLITEXT to ALL",50,3 Days
-SMART,SMUCT50,"Unlimited calls to Smart, TNT and Sun , Unlimited texts to All Networks , 300MB for FB Messenger and Whatsapp",50,3 Days
+SMART,SMGS50,1GB + 1GB EVERY DAY for YouTube NBA Cignal & iWant + UNLITEXT to ALL,50,3 Days
+SMART,SMBB50,1GB + 1GB EVERY DAY for YouTube NBA Cignal & iWant + UNLITEXT to ALL,50,3 Days
+SMART,SMUCT50,Unlimited calls to Smart TNT and Sun  Unlimited texts to All Networks  300MB for FB Messenger and Whatsapp,50,3 Days
 SMART,SMAOS50,50min Trinet Calls + Unli All-Net SMS + 500MB open access + 100MB/day for Facebook and FB Messenger,50,3 Days
-SMART,SMWALLIN50 ,"Unli AllNet SMS, 50 minutes Trinet calls, 500MB Open Access + 100MB FB and FB Messenger access valid for 3 days",50,3 Days
-SMART,SMUNLI50,"Unlimited SMS to All Networks, Unlimited calls to Smart/TNT/Sun, 300MB data FB Messenger, Viber, Whatsapp, and Telegram valid for 3 days",50,3 Days
-SMART,SMGIF50,"1 GB Data + 1 GB STORIES EVERY DAY for Tiktok, IG, FB, Twitter, Kumu",50,3 Days
+SMART,SMWALLIN50 ,Unli AllNet SMS 50 minutes Trinet calls 500MB Open Access + 100MB FB and FB Messenger access valid for 3 days,50,3 Days
+SMART,SMUNLI50,Unlimited SMS to All Networks Unlimited calls to Smart/TNT/Sun 300MB data FB Messenger Viber Whatsapp and Telegram valid for 3 days,50,3 Days
+SMART,SMGIF50,1 GB Data + 1 GB STORIES EVERY DAY for Tiktok IG FB Twitter Kumu,50,3 Days
 SMART,SMALLNET50,500 MB + Unli Allnet Calls & Texts,50,3 Days
 SMART,ALLDATA50,2 GB SHAREABLE DATA FOR ALL SITES,50,3 DAYS
 SMART,SM60,60 airtime load,60,365 Days
-SMART,SMGIGA60,"TOTAL 5 GB - 2 GB + 1 GB GAMES EVERY DAY for ML, PUBG Mobile, Call of Duty, Wild Rift, CoC, AoV, Clash Royale, FB Gaming, Giga Arena",60,3 Days
-SMART,SMGIGAPOWER75,"2 GB POWER EVERY DAY for ALL Sites & Apps, PLUS 2 GB DATA FOR A TOTAL 8 GB",75,3 Days
-SMART,SMTRIDVPLUS75,"TOTAL 6 GB: 3 GB + 1 GB VIDEO EVERY DAY for YouTube, Netflix, Smart LiveStream, iWantTFC + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only)",75,3 Days
-SMART,SMTRIDSPLUS75,"TOTAL 6 GB: 3 GB + 1 GB STORIES EVERY DAY for TikTok, IG, FB, Twitter, Kumu + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only)",75,3 Days
-SMART,SMDGVPLUS75,"TOTAL 8 GB: 2 GB VIDEO EVERY DAY for YouTube, Netflix, Smart LiveStream, iWantTFC (6 GB) + 2 GB + FREE UNLI CALLS & TEXTS.",75,3 Days
-SMART,SMDGSPLUS75,"TOTAL 8 GB: 2 GB STORIES EVERY DAY for TikTok, IG, FB, X, Kumu (6 GB) + 2 GB + FREE UNLI CALLS & TEXTS.",75,3 Days
-SMART,SMGS99,"2 GB Data Access + 1 GB VIDEO EVERY DAY for YouTube, NBA TV, GigaPlay, iWantTFC, Cignal Play",99,7 Days
+SMART,SMGIGA60,TOTAL 5 GB - 2 GB + 1 GB GAMES EVERY DAY for ML PUBG Mobile Call of Duty Wild Rift CoC AoV Clash Royale FB Gaming Giga Arena,60,3 Days
+SMART,SMGIGAPOWER75,2 GB POWER EVERY DAY for ALL Sites & Apps PLUS 2 GB DATA FOR A TOTAL 8 GB,75,3 Days
+SMART,SMTRIDVPLUS75,TOTAL 6 GB: 3 GB + 1 GB VIDEO EVERY DAY for YouTube Netflix Smart LiveStream iWantTFC + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only),75,3 Days
+SMART,SMTRIDSPLUS75,TOTAL 6 GB: 3 GB + 1 GB STORIES EVERY DAY for TikTok IG FB Twitter Kumu + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only),75,3 Days
+SMART,SMDGVPLUS75,TOTAL 8 GB: 2 GB VIDEO EVERY DAY for YouTube Netflix Smart LiveStream iWantTFC (6 GB) + 2 GB + FREE UNLI CALLS & TEXTS.,75,3 Days
+SMART,SMDGSPLUS75,TOTAL 8 GB: 2 GB STORIES EVERY DAY for TikTok IG FB X Kumu (6 GB) + 2 GB + FREE UNLI CALLS & TEXTS.,75,3 Days
+SMART,SMGS99,2 GB Data Access + 1 GB VIDEO EVERY DAY for YouTube NBA TV GigaPlay iWantTFC Cignal Play,99,7 Days
 SMART,SMAOS99,100min Trinet Calls + Unli All-Net SMS + 1GB open access + 100MB/day for Facebook and FB Messenger,99,7 Days
-SMART,SMWALLIN99 ,"Unli AllNet SMS,100 minutes Trinet calls, 1GB Open Access +100MB FB and FB Messenger access valid for 7 days",99,7 Days
-SMART,SMGIF99,"2 GB Data + 1 GB STORIES EVERY DAY for Tiktok, IG, FB, Twitter, Kumu",99,7 Days
+SMART,SMWALLIN99 ,Unli AllNet SMS100 minutes Trinet calls 1GB Open Access +100MB FB and FB Messenger access valid for 7 days,99,7 Days
+SMART,SMGIF99,2 GB Data + 1 GB STORIES EVERY DAY for Tiktok IG FB Twitter Kumu,99,7 Days
 SMART,SMNEWPOWERALL99,8 GB SHAREABLE DATA FOR ALL SITES & APPS + UNLI TikTok EVERY DAY + Unli Allnet Texts,99,7 Days
 SMART,SMALLNET99,1 GB + Unli Allnet Calls & Texts,99,7 Days
-SMART,SMGIGAS99,"1 GB STORIES EVERY DAY for TikTok, IG, FB, Twitter, Kumu (Total 7 GB) + 2 GB ",99,7 Days
+SMART,SMGIGAS99,1 GB STORIES EVERY DAY for TikTok IG FB Twitter Kumu (Total 7 GB) + 2 GB ,99,7 Days
 SMART,UNLI5GDATA99,UNLI 5G DATA + NON-STOP DATA when you move to Non-5G areas.,99,1 Day
 SMART,ALLDATA99,6 GB SHAREABLE DATA FOR ALL SITES,99,7 DAYS
 SMART,MAGICDATA99,2 GB MAGIC DATA FOR ALL SITES.,99,NO EXPIRY
 SMART,SM100,100 airtime load,100,365 Days
-SMART,SMUCT100,"Unlimited calls to Smart, TNT and Sun , Unlimited texts to All Networks , 500MB for FB Messenger and Whatsapp",100,7 Days
-SMART,SMUCT100,"Unlimited SMS to All Networks, Unlimited calls to Smart/TNT/Sun, 500MB data FB Messenger, Viber, Whatsapp, and Telegram valid for 7 days",100,7 Days
+SMART,SMUCT100,Unlimited calls to Smart TNT and Sun  Unlimited texts to All Networks  500MB for FB Messenger and Whatsapp,100,7 Days
+SMART,SMUCT100,Unlimited SMS to All Networks Unlimited calls to Smart/TNT/Sun 500MB data FB Messenger Viber Whatsapp and Telegram valid for 7 days,100,7 Days
 SMART,SMPROMO100,REGULAR LOAD P100 + FREE P5 for 30 Days. Valid for any promos. Non-shareable and can't be used for Value-Added Services.,100,30  Days
 SMART,SM115,115 airtime load,115,365 Days
-SMART,SMGIGA120,"TOTAL 11 GB - 4 GB + 1 GB GAMES EVERY DAY for ML, PUBG Mobile, Call of Duty, Wild Rift, CoC, AoV, Clash Royale, FB Gaming, Giga Arena",120,7 Days
+SMART,SMGIGA120,TOTAL 11 GB - 4 GB + 1 GB GAMES EVERY DAY for ML PUBG Mobile Call of Duty Wild Rift CoC AoV Clash Royale FB Gaming Giga Arena,120,7 Days
 SMART,SMGIGAPOWER149,TOTAL 20 GB: 2 GB POWER EVERY DAY FOR ALL SITES & APPS (14 GB) + 6 GB Shareable Data for 7 days. Available to Smart Prepaid and TNT only. (Available to Smart Prepaid and TNT only),149,7 Days
 SMART,SMNPOWERALL149,12 GB SHAREABLE DATA FOR ALL SITES & APPS + UNLI TikTok EVERY DAY + Unli Allnet Calls & Texts,149,7 Days
 SMART,SMMDTPLUS149,2 GB MAGIC DATA FOR ALL SITES + 50 Mins Allnet Calls + 50 Allnet Texts (NO EXPIRY). ,149,NO EXPIRY
-SMART,SMTRIDVPLUS149,"TOTAL 13 GB: 6 GB + 1 GB VIDEO EVERY DAY for YouTube, Netflix, Smart LiveStream, iWantTFC + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only)",149,7 Days
-SMART,SMTRIDSPLUS149,"TOTAL 13 GB: 6 GB + 1 GB STORIES EVERY DAY for TikTok, IG, FB, Twitter, Kumu + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only)",149,7 Days 
+SMART,SMTRIDVPLUS149,TOTAL 13 GB: 6 GB + 1 GB VIDEO EVERY DAY for YouTube Netflix Smart LiveStream iWantTFC + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only),149,7 Days
+SMART,SMTRIDSPLUS149,TOTAL 13 GB: 6 GB + 1 GB STORIES EVERY DAY for TikTok IG FB Twitter Kumu + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only),149,7 Days 
 SMART,UNLI5GDATA149,UNLI 5G DATA + NON-STOP DATA when you move to Non-5G areas.,149,3 Days
-SMART,SMDGVPLUS149,"TOTAL 18 GB: 2 GB VIDEO EVERY DAY for YouTube, Netflix, Smart LiveStream, iWantTFC (14 GB) + 4 GB + FREE UNLI CALLS & TEXTS.",149,7 Days
-SMART,SMDGSPLUS149,"TOTAL 18 GB: 2 GB STORIES EVERY DAY for TikTok, IG, FB, X, Kumu (14 GB) + 4 GB + FREE UNLI CALLS & TEXTS.",149,7 Days
+SMART,SMDGVPLUS149,TOTAL 18 GB: 2 GB VIDEO EVERY DAY for YouTube Netflix Smart LiveStream iWantTFC (14 GB) + 4 GB + FREE UNLI CALLS & TEXTS.,149,7 Days
+SMART,SMDGSPLUS149,TOTAL 18 GB: 2 GB STORIES EVERY DAY for TikTok IG FB X Kumu (14 GB) + 4 GB + FREE UNLI CALLS & TEXTS.,149,7 Days
 SMART,SM150,150 airtime load,150,365 Days
 SMART,MAGICDATA199,6 GB MAGIC DATA FOR ALL SITES.,199,NO EXPIRY
 SMART,SM200,200 airtime load,200,365 Days
 SMART,SMPROMO200,Promo Load P200 + FREE P22 (non-shareable),200,30 Days
 SMART,SM250,250 airtime load,250,365 Days
-SMART,SMGS299,"Enhanced offer. UNLI TikTok EVERY DAY + 1 GB VIDEO EVERY DAY for YouTube, Netflix, Viu, GigaPlay, iWantTFC + 4 GB",299,30 Days
-SMART,SMGIF299,"4 GB Data + 1 GB STORIES EVERY DAY for Tiktok, IG, FB, Twitter, Kumu",299,30 Days
+SMART,SMGS299,Enhanced offer. UNLI TikTok EVERY DAY + 1 GB VIDEO EVERY DAY for YouTube Netflix Viu GigaPlay iWantTFC + 4 GB,299,30 Days
+SMART,SMGIF299,4 GB Data + 1 GB STORIES EVERY DAY for Tiktok IG FB Twitter Kumu,299,30 Days
 SMART,SMALLNET299,2 GB + Unli Allnet Calls & Texts,299,30 Days
 SMART,SMMDTPLUS299,6 GB MAGIC DATA FOR ALL SITES + 100 Mins Allnet Calls + 100 Allnet Texts (NO EXPIRY),299,NO EXPIRY
 SMART,ALLDATA299,24 GB SHAREABLE DATA FOR ALL SITES ,299,30 DAYS
 SMART,SM300,300 airtime load,300,365 Days
 SMART,SMPROMO300,Promo Load P300 + FREE P33 (non-shareable),300,30 Days
-SMART,SMUCT350,"Unli calls to SMART, TNT and SUN , Unlimited texts to All Networks , 1GB for Messenger and Whatsapp",350,30 Days
+SMART,SMUCT350,Unli calls to SMART TNT and SUN  Unlimited texts to All Networks  1GB for Messenger and Whatsapp,350,30 Days
 SMART,MAGICDATA399,24 GB MAGIC DATA FOR ALL SITES.,399,NO EXPIRY
-SMART,SMGIGAPLUS449,"1 GB VIDEO EVERY DAY for YouTube, Netflix, Smart Livestream, iWantTFC (Total 30 GB) + 4 GB + Unli Allnet Calls & Texts ",449,30 Days
-SMART,SMTRIDVPLUS449,"TOTAL 42 GB: 12 GB + 1 GB VIDEO EVERY DAY for YouTube, Netflix, Smart LiveStream, iWantTFC + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only)",449,30 Days
-SMART,SMTRIDSPLUS449,"TOTAL 42 GB: 12 GB + 1 GB STORIES EVERY DAY for TikTok, IG, FB, Twitter, Kumu + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only)",449,30 Days
+SMART,SMGIGAPLUS449,1 GB VIDEO EVERY DAY for YouTube Netflix Smart Livestream iWantTFC (Total 30 GB) + 4 GB + Unli Allnet Calls & Texts ,449,30 Days
+SMART,SMTRIDVPLUS449,TOTAL 42 GB: 12 GB + 1 GB VIDEO EVERY DAY for YouTube Netflix Smart LiveStream iWantTFC + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only),449,30 Days
+SMART,SMTRIDSPLUS449,TOTAL 42 GB: 12 GB + 1 GB STORIES EVERY DAY for TikTok IG FB Twitter Kumu + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only),449,30 Days
 SMART,SMPA449,FREE UNLI TikTok + 20 GB + Unli Calls & Texts.,449,30  Days
-SMART,SMDGVPLUS449,"TOTAL 66 GB: 2 GB VIDEO EVERY DAY for YouTube, Netflix, Smart LiveStream, iWantTFC (60 GB) + 6 GB + FREE UNLI CALLS & TEXTS.",449,30 Days
-SMART,SMDGSPLUS449,"TOTAL 66 GB: 2 GB STORIES EVERY DAY for TikTok, IG, FB, X, Kumu (60 GB) + 6 GB + FREE UNLI CALLS & TEXTS.",449,30 Days
-SMART,SMGIF499,"8 GB data access +  1 GB STORIES EVERY DAY for Tiktok, IG, FB, Twitter, Kumu",499,30 Days
+SMART,SMDGVPLUS449,TOTAL 66 GB: 2 GB VIDEO EVERY DAY for YouTube Netflix Smart LiveStream iWantTFC (60 GB) + 6 GB + FREE UNLI CALLS & TEXTS.,449,30 Days
+SMART,SMDGSPLUS449,TOTAL 66 GB: 2 GB STORIES EVERY DAY for TikTok IG FB X Kumu (60 GB) + 6 GB + FREE UNLI CALLS & TEXTS.,449,30 Days
+SMART,SMGIF499,8 GB data access +  1 GB STORIES EVERY DAY for Tiktok IG FB Twitter Kumu,499,30 Days
 SMART,SMMDT499,36 GB DATA NO EXPIRY  (for Smart Subscribers Only),499,NO EXPIRY
-SMART,SMGIGAPOWER499,"TOTAL 84 GB: 2 GB POWER EVERY DAY FOR ALL SITES & APPS (60 GB) + 24 GB Shareable Data. (Available to Smart Prepaid, TNT, Smart Bro Prepaid and Smart Bro Home WiFi)",499,30 Days
+SMART,SMGIGAPOWER499,TOTAL 84 GB: 2 GB POWER EVERY DAY FOR ALL SITES & APPS (60 GB) + 24 GB Shareable Data. (Available to Smart Prepaid TNT Smart Bro Prepaid and Smart Bro Home WiFi),499,30 Days
 SMART,SMMDTPLUS499,24 GB MAGIC DATA FOR ALL SITES + 200 Mins Allnet Calls + 200 Allnet Texts (NO EXPIRY),499,NO EXPIRY
 SMART,SMAD499,48 GB,499,60 Days
 SMART,SMALLNET499,UNLI CALLS & TEXTS + 4 GB,499,60 Days
 SMART,SM500,500 airtime load,500,365 Days
 SMART,SMPROMO500,Promo Load P500 + FREE P55 (non-shareable),500,30 Days
 SMART,MAGICDATA599,48 GB MAGIC DATA (NO EXPIRY) ALL SITES  (for Smart Subscribers Only),599,NO EXPIRY
-SMART,SMGV599,"TOTAL 72 GB: 1 GB VIDEO EVERY DAY for YouTube, Netflix, Smart LiveStream, iWantTFC (60 GB) + 12 GB.",599,60 Days
-SMART,SMGS599,"TOTAL 72 GB: 1 GB VIDEO EVERY DAY for YouTube, Netflix, Smart LiveStream, iWantTFC (60 GB) + 12 GB.",599,60 Days
+SMART,SMGV599,TOTAL 72 GB: 1 GB VIDEO EVERY DAY for YouTube Netflix Smart LiveStream iWantTFC (60 GB) + 12 GB.,599,60 Days
+SMART,SMGS599,TOTAL 72 GB: 1 GB VIDEO EVERY DAY for YouTube Netflix Smart LiveStream iWantTFC (60 GB) + 12 GB.,599,60 Days
 SMART,SMAD599,72 GB,599,90 Days
 SMART,SMALLNET599,UNLI CALLS & TEXTS + 6 GB,599,90 Days
 SMART,SMMDTPLUS649,36 GB MAGIC DATA FOR ALL SITES + 300 Mins Allnet Calls + 300 Allnet Texts (NO EXPIRY),649,NO EXPIRY
-SMART,SMGV699,"TOTAL 108 GB: 1 GB VIDEO EVERY DAY for YouTube, Netflix, Smart LiveStream, iWantTFC (90 GB) + 18 GB.",699,90 Days
-SMART,SMGS699,"TOTAL 108 GB: 1 GB VIDEO EVERY DAY for YouTube, Netflix, Smart LiveStream, iWantTFC (90 GB) + 18 GB.",699,90 Days
+SMART,SMGV699,TOTAL 108 GB: 1 GB VIDEO EVERY DAY for YouTube Netflix Smart LiveStream iWantTFC (90 GB) + 18 GB.,699,90 Days
+SMART,SMGS699,TOTAL 108 GB: 1 GB VIDEO EVERY DAY for YouTube Netflix Smart LiveStream iWantTFC (90 GB) + 18 GB.,699,90 Days
 SMART,SMMDTPLUS749,48 GB MAGIC DATA FOR ALL SITES + 600 Mins Allnet Calls + 600 Allnet Texts (NO EXPIRY),749,NO EXPIRY
 SMART,SMPA749,FREE UNLI TikTok + 40 GB + Unli Calls & Texts.,749,60 Days
-SMART,SMDGVPLUS749,"TOTAL 132 GB: 2 GB VIDEO EVERY DAY for YouTube, Netflix, Smart LiveStream, iWantTFC (120 GB) + 12 GB + FREE UNLI CALLS & TEXTS.",749,60 Days
-SMART,SMDGSPLUS749,"TOTAL 132 GB: 2 GB STORIES EVERY DAY for TikTok, IG, FB, X, Kumu (120 GB) + 12 GB + FREE UNLI CALLS & TEXTS.",749,60 Days
+SMART,SMDGVPLUS749,TOTAL 132 GB: 2 GB VIDEO EVERY DAY for YouTube Netflix Smart LiveStream iWantTFC (120 GB) + 12 GB + FREE UNLI CALLS & TEXTS.,749,60 Days
+SMART,SMDGSPLUS749,TOTAL 132 GB: 2 GB STORIES EVERY DAY for TikTok IG FB X Kumu (120 GB) + 12 GB + FREE UNLI CALLS & TEXTS.,749,60 Days
 SMART,SMGP849,TOTAL 156 GB: 2 GB POWER EVERY DAY FOR ALL SITES & APPS (120 GB) + 36 GB.,849,60 Days
 SMART,SMPA899,FREE UNLI TikTok + 60 GB + Unli Calls & Texts.,899,90 Days
-SMART,SMDGVPLUS899,"TOTAL 198 GB: 2 GB VIDEO EVERY DAY for YouTube, Netflix, Smart LiveStream, iWantTFC (180 GB) + 18 GB + FREE UNLI CALLS & TEXTS.",899,90 Days
-SMART,SMDGSPLUS899,"TOTAL 198 GB: 2 GB STORIES EVERY DAY for TikTok, IG, FB, X, Kumu (180 GB) + 18 GB + FREE UNLI CALLS & TEXTS.",899,90 Days
+SMART,SMDGVPLUS899,TOTAL 198 GB: 2 GB VIDEO EVERY DAY for YouTube Netflix Smart LiveStream iWantTFC (180 GB) + 18 GB + FREE UNLI CALLS & TEXTS.,899,90 Days
+SMART,SMDGSPLUS899,TOTAL 198 GB: 2 GB STORIES EVERY DAY for TikTok IG FB X Kumu (180 GB) + 18 GB + FREE UNLI CALLS & TEXTS.,899,90 Days
 SMART,SMGP999,TOTAL 228 GB: 2 GB POWER EVERY DAY FOR ALL SITES & APPS (180 GB) + 48 GB.,999,90 Days
 SMART,SMALLNET999,UNLI CALLS & TEXTS + 8 GB,999,180 Days
 SMART,SM1000,1000 airtime load,1000,365 Days
@@ -234,8 +234,8 @@ SMART,UNLI5GDATA299,UNLI 5G DATA (Exclusively for 5G Certified Devices in 5G Exc
 SMART,UNLI5GDATA599,15 airtime load,599,365 Days
 SMART,UNLI5GDATA599,UNLI 5G DATA (Exclusively for 5G Certified Devices in 5G Exclusive Locations) + EXTRA 12 GB DATA (when you use in Non-5G areas).,599,30 DAYS
 SMART,UNLI5GDATA999,UNLI 5G DATA + NON-STOP DATA when you move to Non-5G areas.,999,30 Days
-SMARTBRO,SMBROBB50,"1GB + 1GB EVERY DAY for YouTube, NBA, Cignal & iWant + UNLITEXT to ALL",50,3 Days
-SMARTBRO,SMBROGS50,"1GB + 1GB EVERY DAY for YouTube, NBA, Cignal & iWant + UNLITEXT to ALL",50,3 Days
+SMARTBRO,SMBROBB50,1GB + 1GB EVERY DAY for YouTube NBA Cignal & iWant + UNLITEXT to ALL,50,3 Days
+SMARTBRO,SMBROGS50,1GB + 1GB EVERY DAY for YouTube NBA Cignal & iWant + UNLITEXT to ALL,50,3 Days
 SMARTBRO,SMBROALLDATA50,2 GB SHAREABLE DATA FOR ALL SITES,50,3 Days
 SMARTBRO,SMBROPA99,8 GB SHAREABLE DATA FOR ALL SITES & APPS + UNLI Tiktok EVERY DAY for 7 days. (Available to Smart Bro Prepaid only),99,7 Days
 SMARTBRO,SMBROALLDATA99,6 GB SHAREABLE DATA FOR ALL SITES,99,7 Days
@@ -250,7 +250,7 @@ SMARTBRO,SMBROHWMD199,6 GB MAGIC DATA (NO EXPIRY) FOR ALL SITES.,199,NO EXPIRY
 SMARTBRO,SMBROHWFAM199,TOTAL 32 GB: 1 GB ALL ACCESS EVERY DAY (ALL SITES & APPS) + 25 GB,199,7 Days
 SMARTBRO,SMBROPROMO200,Promo Load P200 + FREE P22 (non-shareable),200,30 Days
 SMARTBRO,SMBROHWPRO200,Promo Load P200 + FREE P22 (non-shareable),200,30 Days
-SMARTBRO,SMBROGS299,"4GB + 1GB EVERY DAY for YouTube, NBA, Cignal, iWant TV",299,30 Days
+SMARTBRO,SMBROGS299,4GB + 1GB EVERY DAY for YouTube NBA Cignal iWant TV,299,30 Days
 SMARTBRO,SMBRALLDATA299,24 GB SHAREABLE DATA FOR ALL SITES,299,30 Days
 SMARTBRO,SMBROHWAD299,24 GB SHAREABLE DATA FOR ALL SITES ,299,30 Days
 SMARTBRO,SMBROHWFAM299,TOTAL 57 GB: 1 GB ALL ACCESS EVERY DAY (ALL SITES & APPS) + 50 GB,299,7 Days
@@ -262,8 +262,8 @@ SMARTBRO,SMBROMD399,24 GB MAGIC DATA (NO EXPIRY) FOR ALL SITES.,399,NO EXPIRY
 SMARTBRO,SMBROHWAD399,36 GB SHAREABLE DATA FOR ALL SITES,399,30 Days
 SMARTBRO,SMBROHWMD399,24 GB MAGIC DATA (NO EXPIRY) FOR ALL SITES.,399,NO EXPIRY
 SMARTBRO,SMBROHWFAM449,TOTAL 64 GB: 2 GB ALL ACCESS EVERY DAY (ALL SITES & APPS) + 50 GB,449,7 Days
-SMARTBRO,SMBROGGP499,"TOTAL 84 GB: 2 GB POWER EVERY DAY FOR ALL SITES & APPS (60 GB) + 24 GB Shareable Data. (Available to Smart Prepaid, TNT, Smart Bro Prepaid and Smart Bro Home WiFi)",499,30 Days
-SMARTBRO,SMBROHWGGP499,"TOTAL 84 GB: 2 GB POWER EVERY DAY FOR ALL SITES & APPS (60 GB) + 24 GB Shareable Data. (Available to Smart Prepaid, TNT, Smart Bro Prepaid and Smart Bro Home WiFi)",499,30 Days
+SMARTBRO,SMBROGGP499,TOTAL 84 GB: 2 GB POWER EVERY DAY FOR ALL SITES & APPS (60 GB) + 24 GB Shareable Data. (Available to Smart Prepaid TNT Smart Bro Prepaid and Smart Bro Home WiFi),499,30 Days
+SMARTBRO,SMBROHWGGP499,TOTAL 84 GB: 2 GB POWER EVERY DAY FOR ALL SITES & APPS (60 GB) + 24 GB Shareable Data. (Available to Smart Prepaid TNT Smart Bro Prepaid and Smart Bro Home WiFi),499,30 Days
 SMARTBRO,SMBRALLDATA499,48 GB SHAREABLE DATA FOR ALL SITES,499,30 Days
 SMARTBRO,SMBROMD499,36 GB MAGIC DATA (NO EXPIRY) FOR ALL SITES.,499,NO EXPIRY
 SMARTBRO,SMBROHWAD499,48 GB SHAREABLE DATA FOR ALL SITES,499,30 Days
@@ -292,27 +292,27 @@ SMARTBRO,SMBRUN5GEX299,UNLI 5G + EXTRA 3 GB (when you use in Non-5G areas),299,7
 SMARTBRO,SMBRUN5GEX599,UNLI 5G + EXTRA 12 GB (when you use in Non-5G areas).,599,30 Days
 SMARTBRO,SMBRUNLI5G999,30 DAYS of UNLI 5G + NON-STOP DATA when you move to Non-5G areas,999,30 Days
 SUN,SMSUN10,10 airtime load,10,365 Days
-SUN,SMSUNCTC10,"100 MB/day for FB, Non Stop Chat + 10 Trinet Mins Call and 100 Allnet Texts ( for SUN and SUN Brodband Subs. Only )",10,1 Day
+SUN,SMSUNCTC10,100 MB/day for FB Non Stop Chat + 10 Trinet Mins Call and 100 Allnet Texts ( for SUN and SUN Brodband Subs. Only ),10,1 Day
 SUN,SMSUN15,15 airtime load,15,365 Days
 SUN,SMSUN20,20 airtime load,20,365 Days
-SUN,SMSUNSSP20,"300 MB, Unli Trinet Calls & Unli Allnet Texts ( for SUN and SUN Brodband Subs. Only )",20,2 Days
-SUN,SMSUNCTC20,"100 MB/day for FB, Non Stop Chat + 25 Trinet Mins Call and 200 Allnet Texts ( for SUN and SUN Brodband Subs. Only )",20,3 Days
+SUN,SMSUNSSP20,300 MB Unli Trinet Calls & Unli Allnet Texts ( for SUN and SUN Brodband Subs. Only ),20,2 Days
+SUN,SMSUNCTC20,100 MB/day for FB Non Stop Chat + 25 Trinet Mins Call and 200 Allnet Texts ( for SUN and SUN Brodband Subs. Only ),20,3 Days
 SUN,SMSUN25,25 airtime load,25,365 Days
 SUN,SMSUN30,30 airtime load,30,365 Days
 SUN,SMSUN50,50 airtime load,50,365 Days
-SUN,SMSUNGV50,"Enhanced offer. 1 GB VIDEO EVERY DAY for YouTube, Netflix, Viu, GigaPlay, iWantTFC (Total 3 GB) + 1 GB + Unli Allnet Texts for 3 days (for SUN PREPAID,  SMART PREPAID, SMARTBRO PREPAID, TNT PREPAID subscribers)",50,3 Days
-SUN,SMSUNTU50,"100 MB/day for FB + 50 MB/day for Non Stop Chat, 60 Trinet Mins Call and Unli Allnet Texts ( for SUN and SUN Brodband Subs. Only )",50,10 Days
+SUN,SMSUNGV50,Enhanced offer. 1 GB VIDEO EVERY DAY for YouTube Netflix Viu GigaPlay iWantTFC (Total 3 GB) + 1 GB + Unli Allnet Texts for 3 days (for SUN PREPAID  SMART PREPAID SMARTBRO PREPAID TNT PREPAID subscribers),50,3 Days
+SUN,SMSUNTU50,100 MB/day for FB + 50 MB/day for Non Stop Chat 60 Trinet Mins Call and Unli Allnet Texts ( for SUN and SUN Brodband Subs. Only ),50,10 Days
 SUN,SMSUNIDD50,15 Trinet Mins Call and 20 Trinet Texts valid for 15 Days ( for SUN Subs. Only ) ,50,15 Days
 SUN,SMSUN75,75 airtime load,75,365 Days
-SUN,SMSUNGV99,"1 GB VIDEO EVERY DAY for YouTube, Netflix, Smart Livestream, iWantTFC (Total 7 GB) + 2 GB (for SUN PREPAID,  SMART PREPAID, SMARTBRO PREPAID, TNT PREPAID subscribers)",99,7 Days
-SUN,SMSUNSSP99,"1 GB open access data + Unli Trinet Calls, 30 Allnet Mins and Unli Allnet Texts ( for SUN and SUN Brodband Subs. Only )",99,7 Days
+SUN,SMSUNGV99,1 GB VIDEO EVERY DAY for YouTube Netflix Smart Livestream iWantTFC (Total 7 GB) + 2 GB (for SUN PREPAID  SMART PREPAID SMARTBRO PREPAID TNT PREPAID subscribers),99,7 Days
+SUN,SMSUNSSP99,1 GB open access data + Unli Trinet Calls 30 Allnet Mins and Unli Allnet Texts ( for SUN and SUN Brodband Subs. Only ),99,7 Days
 SUN,SMSUN100,100 airtime load,100,365 Days
 SUN,SMSUNIDD100,30 Trinet Mins and 30 Trinet Texts valid for 30 Days ( for SUN Subs. Only ),100,30 Days
 SUN,SMSUN150,150 airtime load,150,365 Days
-SUN,SMSUNTU150,"100 MB/day for FB + 50 MB/day for Non Stop Chat, 300 Trinet Mins Call  and Unli Allnet Texts ( for SUN and SUN Brodband Subs. Only )",150,30 Days
+SUN,SMSUNTU150,100 MB/day for FB + 50 MB/day for Non Stop Chat 300 Trinet Mins Call  and Unli Allnet Texts ( for SUN and SUN Brodband Subs. Only ),150,30 Days
 SUN,SMSUN200,200 airtime load,200,365 Days
-SUN,SMSUNTU200,"100 MB/day for FB + 50 MB/day for Non Stop Chat, 300 Quadnet Mins Call and Unli Allnet Texts ( for SUN and SUN Brodband Subs. Only )",200,30 Days
-SUN,SMSUNSSP249,"2 GB open access data + Unli Trinet Calls, 60 Allnet Mins and Unli Allnet Texts ( for SUN and SUN Brodband Subs. Only )",249,30 Days
+SUN,SMSUNTU200,100 MB/day for FB + 50 MB/day for Non Stop Chat 300 Quadnet Mins Call and Unli Allnet Texts ( for SUN and SUN Brodband Subs. Only ),200,30 Days
+SUN,SMSUNSSP249,2 GB open access data + Unli Trinet Calls 60 Allnet Mins and Unli Allnet Texts ( for SUN and SUN Brodband Subs. Only ),249,30 Days
 SUN,SMSUN300,300 airtime load,300,365 Days
 SUN,SMSUNIDD300,60 Trinet Mins and 80 Trinet Texts valid for 60 Days ( for SUN Subs. Only ),300,60 Days
 SUN,SMSUN500,500 airtime load,500,365 Days
@@ -333,23 +333,23 @@ TM,U15,Unlicalls to TM/Globe,15,1 Day
 TM,USSDCOMBO15,Unli Allnet Texts + 60 mins Calls to TM/Globe,15,3 Days
 TM,COMBO20,Unlitxt to all networks + 120 minutes call to TM and Globe,20,3 Days
 TM,COMBOALL20,UNLICALLS to TM/Globe +  Unli texts to TM/Globe + 50 allnet texts,20,3 Days
-TM,AN20,"Unli ALLNET calls & texts +300MB pang-internet +150MB/Day  FB,YT, ML",20,2 Days
+TM,AN20,Unli ALLNET calls & texts +300MB pang-internet +150MB/Day  FBYT ML,20,2 Days
 TM,A20,UNLI ALLNET Calls  with Unli Allnet SMS. 100 MB Facebook + 200 MB data,20,2 Days
 TM,C20,Unli texts to all networks + 120 minutes of calls to TM/Globe,20,3 Days
-TM,TIPIDD30,"4 minutes IDD calls to SAUDI ARABIA, UAE, KUWAIT, BAHRAIN, AUSTRALIA, UK, ITALY and JAPAN",30,1 Day
-TM,ALLINSURF30,"UNLI Allnet Calls & Texts + 1GB data (300MB internet, 700MB FB, YouTube, ML, TikTok, WeSing, Wild Rift, & iWantTFC)",30,3 Days
-TM,A30,"Unli ALLNET calls & texts + 750MB pang-internet + 150MB/Day FB,YT, ML",30,3 Days
+TM,TIPIDD30,4 minutes IDD calls to SAUDI ARABIA UAE KUWAIT BAHRAIN AUSTRALIA UK ITALY and JAPAN,30,1 Day
+TM,ALLINSURF30,UNLI Allnet Calls & Texts + 1GB data (300MB internet 700MB FB YouTube ML TikTok WeSing Wild Rift & iWantTFC),30,3 Days
+TM,A30,Unli ALLNET calls & texts + 750MB pang-internet + 150MB/Day FBYT ML,30,3 Days
 TM,TMX50,50 regular load,50,365 Days
 TM,EZ50,1GB consumable mobile internet + Unli Allnet texts + 1Gb/day free site of choice*,50,3 Days
-TM,EZ50FA,"2GB data + 3GB (1GB araw-araw) para sa FunALIW Pack (FB, YT, ML, TikTok, & WeSing)",50,3 Days
+TM,EZ50FA,2GB data + 3GB (1GB araw-araw) para sa FunALIW Pack (FB YT ML TikTok & WeSing),50,3 Days
 TM,EASYSURF70,1GB data + 7GB (1GB araw-araw) para sa app freebies,70,7 Days
-TM,EZ75,"6GB apps (2GB /day), Unli Call and Text to all networks",75,3 Days
+TM,EZ75,6GB apps (2GB /day) Unli Call and Text to all networks,75,3 Days
 TM,EASYSURF90,2GB data + 7GB (1GB araw-araw) para sa app freebies,90,7 Days
-TM,EZ99,"14 GB apps(2GB/day), Unli allnet Text ",99,7 Days
-TM,EasyWATCH99,"Add-on for TM GoSURF50/EasySURF50 up or TM EasyPLAN, 2.5GB video streaming. (For Globe/HPW/XPW Subs.)",99,3 Days
+TM,EZ99,14 GB apps(2GB/day) Unli allnet Text ,99,7 Days
+TM,EasyWATCH99,Add-on for TM GoSURF50/EasySURF50 up or TM EasyPLAN 2.5GB video streaming. (For Globe/HPW/XPW Subs.),99,3 Days
 TM,TMX100,100 regular load,100,365 Days
-TM,EZ140,"14GB apps (2GB /day), Unli Call and Text to all networks",140,7 Days
-TM,TMEP150,"Unli Calls to TM/Globe + Unli Allnet texts + 1.5GB each for Facebook, Instagram, & Viber",150,15 Days
+TM,EZ140,14GB apps (2GB /day) Unli Call and Text to all networks,140,7 Days
+TM,TMEP150,Unli Calls to TM/Globe + Unli Allnet texts + 1.5GB each for Facebook Instagram & Viber,150,15 Days
 TM,EZ299,2GB consumable internet with 10GB free site of choice. ,299,30 Days
 TM,TMSURF4ALL99,9GB shareable data for all valid for 7 days,499,7 Days
 TM,EZ599,5GB consumable internet with 10GB free site of choice.,599,30 Days
@@ -364,75 +364,75 @@ TNT,TNTUTP15,Unlitext + UNLI calls to TNT/Smart/Sun + 50 all-net texts for 2 day
 TNT,PANTAWID15,150 MB + 150 Allnet Mins + 150 Allnet Texts,15,1 Day
 TNT,TNTFB15,1 GB FB for 3 days. Available to TNT only,15,3 Days
 TNT,TNTML15,1 GB ML for 3 days. Available to TNT only,15,3 Days
-TNT,TNTSAYA20,"200MB to 250 MB/day for FB, ML, IG, Tiktok + Unli Allnet Calls & Texts",20,2 Days
+TNT,TNTSAYA20,200MB to 250 MB/day for FB ML IG Tiktok + Unli Allnet Calls & Texts,20,2 Days
 TNT,PANTAWID20,200 MB + Unli Allnet Calls & Texts,20,1 Day
 TNT,TNTALLNET20,50 MB + Unli Allnet Calls & Texts for 2 days.,20,2 Days
 TNT,TNTFBML20,1 GB FB & ML,20,3 Days
-TNT,TNTUT30,"Unli All-net SMS, 100mins Tri-net calls, 100MB Tropa Apps",30,3 Days
-TNT,TNTSAYA30,"400 MB to 450 MB MB/day for FB, ML, IG, Tiktok + Unli Allnet Calls & Texts",30,3 Days
-TNT,TNTSAYA49,"100 MB ARAW-ARAW for FB, ML, IG, Tiktok + 500 MB + Unli Allnet Calls & Texts",49,7 DAYS
+TNT,TNTUT30,Unli All-net SMS 100mins Tri-net calls 100MB Tropa Apps,30,3 Days
+TNT,TNTSAYA30,400 MB to 450 MB MB/day for FB ML IG Tiktok + Unli Allnet Calls & Texts,30,3 Days
+TNT,TNTSAYA49,100 MB ARAW-ARAW for FB ML IG Tiktok + 500 MB + Unli Allnet Calls & Texts,49,7 DAYS
 TNT,ALLDATA50,2 GB SHAREABLE DATA FOR ALL SITES,50,3 DAYS
 TNT,TNTSFMX50,800MB all day internet data,50,1 Day
-TNT,TNTGV50,"1GB + 1GB EVERY DAY for YouTube, NBA, Cignal & iWant + UNLITEXT to ALL ",50,3 Days
-TNT,TNTGS50,"1 GB STORIES EVERY DAY for Tiktok, IG, FB, Twitter, Kumu",50,3 Days
+TNT,TNTGV50,1GB + 1GB EVERY DAY for YouTube NBA Cignal & iWant + UNLITEXT to ALL ,50,3 Days
+TNT,TNTGS50,1 GB STORIES EVERY DAY for Tiktok IG FB Twitter Kumu,50,3 Days
 TNT,TNTALLDATA50,2 GB SHAREABLE DATA FOR ALL SITES ,50,3 Days
 TNT,TNTALLNET50,500 MB + Unli Allnet Calls & Texts for 3 days.,50,3 Days
-TNT,TNTFBCHAT50,"500 MB ARAW-ARAW for FB, IG & WhatsApp",50,7 Days
+TNT,TNTFBCHAT50,500 MB ARAW-ARAW for FB IG & WhatsApp,50,7 Days
 TNT,TNTFBML50,500 MB FB & ML ARAW-ARAW,50,7 Days
 TNT,TNTGIGAPOWER75,TOTAL 8 GB: 2 GB POWER ARAW-ARAW FOR ALL SITES & APPS (6 GB) + 2 GB Shareable Data for 3 days,75,3 Days
-TNT,TNTTRIDVPLUS75,"TOTAL 6 GB: 3 GB + 1 GB VIDEO ARAW-ARAW for YouTube, Netflix, Smart LiveStream, iWantTFC + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only)",75,3 Days
-TNT,TNTTRIDSPLUS75,"TOTAL 6 GB: 3 GB + 1 GB STORIES ARAW-ARAW for TikTok, IG, FB, Twitter, Kumu + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only)",75,3 Days
-TNT,TNTDGVPLUS75,"TOTAL 8 GB: 2 GB VIDEO ARAW-ARAW for YouTube, Netflix, Smart LiveStream, iWantTFC (6 GB) + 2 GB + FREE UNLI CALLS & TEXTS.",75,3 Days
-TNT,TNTDGSPLUS75,"TOTAL 8 GB: 2 GB STORIES ARAW-ARAW for TikTok, IG, FB, X, Kumu (6 GB) + 2 GB + FREE UNLI CALLS & TEXTS.",75,3 Days
+TNT,TNTTRIDVPLUS75,TOTAL 6 GB: 3 GB + 1 GB VIDEO ARAW-ARAW for YouTube Netflix Smart LiveStream iWantTFC + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only),75,3 Days
+TNT,TNTTRIDSPLUS75,TOTAL 6 GB: 3 GB + 1 GB STORIES ARAW-ARAW for TikTok IG FB Twitter Kumu + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only),75,3 Days
+TNT,TNTDGVPLUS75,TOTAL 8 GB: 2 GB VIDEO ARAW-ARAW for YouTube Netflix Smart LiveStream iWantTFC (6 GB) + 2 GB + FREE UNLI CALLS & TEXTS.,75,3 Days
+TNT,TNTDGSPLUS75,TOTAL 8 GB: 2 GB STORIES ARAW-ARAW for TikTok IG FB X Kumu (6 GB) + 2 GB + FREE UNLI CALLS & TEXTS.,75,3 Days
 TNT,ALLDATA99,6 GB SHAREABLE DATA FOR ALL SITES,99,7 DAYS
 TNT,MAGICDATA99,2 GB MAGIC DATA FOR ALL SITES.,99,NO EXPIRY
-TNT,TNTSAYA99,"100 MB ARAW-ARAW for TikTok, IG, FB, ML + 1.5 GB + Unli Allnet Calls & Texts ",99,7 Days
-TNT,TNTGS99,"1 GB STORIES ARAW-ARAW for TikTok, IG, FB, Twitter, Kumu (Total 7 GB)+ 2 GB ",99,7 Days
-TNT,TNTGV99,"Enhanced offer. 1 GB TikTok ARAW-ARAW + 1 GB VIDEO ARAW-ARAW for YouTube, Netflix, Viu, GigaPlay, iWantTFC + 2 GB for 7 days",99,7 Days
+TNT,TNTSAYA99,100 MB ARAW-ARAW for TikTok IG FB ML + 1.5 GB + Unli Allnet Calls & Texts ,99,7 Days
+TNT,TNTGS99,1 GB STORIES ARAW-ARAW for TikTok IG FB Twitter Kumu (Total 7 GB)+ 2 GB ,99,7 Days
+TNT,TNTGV99,Enhanced offer. 1 GB TikTok ARAW-ARAW + 1 GB VIDEO ARAW-ARAW for YouTube Netflix Viu GigaPlay iWantTFC + 2 GB for 7 days,99,7 Days
 TNT,TNTALLNET99,1 GB + Unli Allnet Calls & Texts for 7 days.,99,7 Days
 TNT,TNTALLDATA99,6 GB SHAREABLE DATA FOR ALL SITES,99,7 Days
 TNT,TNTPROMO100,REGULAR LOAD P100 + FREE P5 for 30 days. Valid for any promos. Non-shareable and can't be used for Value-Added Services.,100,30  Days
 TNT,TNTGIGAPOWER149,TOTAL 20 GB: 2 GB POWER ARAW-ARAW FOR ALL SITES & APPS (14 GB) + 6 GB Shareable Data (To be used after the GIGA POWER 149 with FREE TIKTOK EVERY DAY promo has ended),149,7 Days
 TNT,TNTMDTPLUS149,2 GB MAGIC DATA FOR ALL SITES + 50 Mins Allnet Calls + 50 Allnet Texts (NO EXPIRY),149,NO EXPIRY
-TNT,TNTTRIDVPLUS149,"TOTAL 13 GB: 6 GB + 1 GB VIDEO ARAW-ARAW for YouTube, Netflix, Smart LiveStream, iWantTFC + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only)",149,7 Days
-TNT,TNTTRIDSPLUS149,"TOTAL 13 GB: 6 GB + 1 GB STORIES ARAW-ARAW for TikTok, IG, FB, Twitter, Kumu + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only)",149,7 Days
-TNT,TNTDGVPLUS149,"TOTAL 18 GB: 2 GB VIDEO ARAW-ARAW for YouTube, Netflix, Smart LiveStream, iWantTFC (14 GB) + 4 GB + FREE UNLI CALLS & TEXTS.",149,7 Days
-TNT,TNTDGSPLUS149,"TOTAL 18 GB: 2 GB STORIES ARAW-ARAW for TikTok, IG, FB, X, Kumu (14 GB) + 4 GB + FREE UNLI CALLS & TEXTS.",149,7 Days
-TNT,TNTWUT150,"150 All-net SMS, 150 mins Tri-net calls",150,30 Days
+TNT,TNTTRIDVPLUS149,TOTAL 13 GB: 6 GB + 1 GB VIDEO ARAW-ARAW for YouTube Netflix Smart LiveStream iWantTFC + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only),149,7 Days
+TNT,TNTTRIDSPLUS149,TOTAL 13 GB: 6 GB + 1 GB STORIES ARAW-ARAW for TikTok IG FB Twitter Kumu + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only),149,7 Days
+TNT,TNTDGVPLUS149,TOTAL 18 GB: 2 GB VIDEO ARAW-ARAW for YouTube Netflix Smart LiveStream iWantTFC (14 GB) + 4 GB + FREE UNLI CALLS & TEXTS.,149,7 Days
+TNT,TNTDGSPLUS149,TOTAL 18 GB: 2 GB STORIES ARAW-ARAW for TikTok IG FB X Kumu (14 GB) + 4 GB + FREE UNLI CALLS & TEXTS.,149,7 Days
+TNT,TNTWUT150,150 All-net SMS 150 mins Tri-net calls,150,30 Days
 TNT,TNTPANALO150,Unli Trinet Calls + Unli Allnet Texts,150,30 Days
 TNT,MAGICDATA199,6 GB MAGIC DATA FOR ALL SITES.,199,NO EXPIRY
-TNT,TNTSAYA199,"200 MB ARAW-ARAW for TikTok, IG, FB, ML + 2 GB + Unli Allnet Calls & Texts",199,30 Days
+TNT,TNTSAYA199,200 MB ARAW-ARAW for TikTok IG FB ML + 2 GB + Unli Allnet Calls & Texts,199,30 Days
 TNT,TNTPROMO200,Promo Load P200 + FREE P22 (non-shareable),200,30 Days
 TNT,ALLDATA299,24 GB SHAREABLE DATA FOR ALL SITES ,299,30 DAYS
-TNT,TNTSPPGIGA299,"4GB Data , 1 GB/day for YT, NBA, Cignal, iWant ",299,30 Days
+TNT,TNTSPPGIGA299,4GB Data  1 GB/day for YT NBA Cignal iWant ,299,30 Days
 TNT,TNTALLNET299,2 GB + Unli Allnet Calls & Texts for 30 days.,299,30 Days
 TNT,TNTALLDATA299,24 GB SHAREABLE DATA FOR ALL SITES,299,30 Days
 TNT,TNTMDTPLUS299,6 GB MAGIC DATA FOR ALL SITES + 100 Mins Allnet Calls + 100 Allnet Texts (NO EXPIRY),299,NO EXPIRY
 TNT,TNTPROMO300,Promo Load P300 + FREE P33 (non-shareable),300,30 Days
 TNT,MAGICDATA399,24 GB MAGIC DATA FOR ALL SITES.,399,NO EXPIRY
-TNT,TNTTRIDVPLUS449,"TOTAL 42 GB: 12 GB + 1 GB VIDEO ARAW-ARAW for YouTube, Netflix, Smart LiveStream, iWantTFC + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only)",449,30 Days
-TNT,TNTTRIDSPLUS449,"TOTAL 42 GB: 12 GB + 1 GB STORIES ARAW-ARAW for TikTok, IG, FB, Twitter, Kumu + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only)",449,30 days
-TNT,TNTDGVPLUS449,"TOTAL 66 GB: 2 GB VIDEO ARAW-ARAW for YouTube, Netflix, Smart LiveStream, iWantTFC (60 GB) + 6 GB + FREE UNLI CALLS & TEXTS.",449,30 Days
-TNT,TNTDGSPLUS449,"TOTAL 66 GB: 2 GB STORIES ARAW-ARAW for TikTok, IG, FB, X, Kumu (60 GB) + 6 GB + FREE UNLI CALLS & TEXTS.",449,30 Days
-TNT,TNTGIGAPOWER499,"TOTAL 84 GB: 2 GB POWER ARAW-ARAW FOR ALL SITES & APPS (60 GB) + 24 GB Shareable Data. (Available to Smart Prepaid, TNT, Smart Bro Prepaid and Smart Bro Home WiFi)",499,30 Days
+TNT,TNTTRIDVPLUS449,TOTAL 42 GB: 12 GB + 1 GB VIDEO ARAW-ARAW for YouTube Netflix Smart LiveStream iWantTFC + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only),449,30 Days
+TNT,TNTTRIDSPLUS449,TOTAL 42 GB: 12 GB + 1 GB STORIES ARAW-ARAW for TikTok IG FB Twitter Kumu + Unli Allnet Calls & Texts (Available to Smart Prepaid and TNT only),449,30 days
+TNT,TNTDGVPLUS449,TOTAL 66 GB: 2 GB VIDEO ARAW-ARAW for YouTube Netflix Smart LiveStream iWantTFC (60 GB) + 6 GB + FREE UNLI CALLS & TEXTS.,449,30 Days
+TNT,TNTDGSPLUS449,TOTAL 66 GB: 2 GB STORIES ARAW-ARAW for TikTok IG FB X Kumu (60 GB) + 6 GB + FREE UNLI CALLS & TEXTS.,449,30 Days
+TNT,TNTGIGAPOWER499,TOTAL 84 GB: 2 GB POWER ARAW-ARAW FOR ALL SITES & APPS (60 GB) + 24 GB Shareable Data. (Available to Smart Prepaid TNT Smart Bro Prepaid and Smart Bro Home WiFi),499,30 Days
 TNT,TNTMDTPLUS499,24 GB MAGIC DATA FOR ALL SITES + 200 Mins Allnet Calls + 200 Allnet Texts (NO EXPIRY),499,NO EXPIRY
 TNT,TNTAD499,48 GB,499,60 Days
 TNT,TNTALLNET499,UNLI CALLS & TEXTS + 4 GB,499,60 Days
 TNT,TNTPROMO500,Promo Load P500 + FREE P55 (non-shareable),500,30 Days
-TNT,TNTGV599,"TOTAL 72 GB: 1 GB VIDEO ARAW-ARAW for YouTube, Netflix, Smart LiveStream, iWantTFC (60 GB) + 12 GB",599,60 Days
-TNT,TNTGS599,"TOTAL 72 GB: 1 GB STORIES ARAW-ARAW for TikTok, IG, FB, X, Kumu (60 GB) + 12 GB",599,60 Days
+TNT,TNTGV599,TOTAL 72 GB: 1 GB VIDEO ARAW-ARAW for YouTube Netflix Smart LiveStream iWantTFC (60 GB) + 12 GB,599,60 Days
+TNT,TNTGS599,TOTAL 72 GB: 1 GB STORIES ARAW-ARAW for TikTok IG FB X Kumu (60 GB) + 12 GB,599,60 Days
 TNT,TNTAD599,72 GB,599,90 Days
 TNT,TNTUN5G99,UNLI 5G DATA + NON-STOP DATA when you move to Non-5G areas,599,1 Day
 TNT,TNTALLNET599,UNLI CALLS & TEXTS + 6 GB,599,90 Days
 TNT,TNTMDTPLUS649,36 GB MAGIC DATA FOR ALL SITES + 300 Mins Allnet Calls + 300 Allnet Texts (NO EXPIRY),649,NO EXPIRY
-TNT,TNTGV699,"TOTAL 108 GB: 1 GB VIDEO ARAW-ARAW for YouTube, Netflix, Smart LiveStream, iWantTFC (90 GB) + 18 GB",699,90 Days
-TNT,TNTGS699,"TOTAL 108 GB: 1 GB STORIES ARAW-ARAW for TikTok, IG, FB, X, Kumu (90 GB) + 18 GB",699,90 Days
+TNT,TNTGV699,TOTAL 108 GB: 1 GB VIDEO ARAW-ARAW for YouTube Netflix Smart LiveStream iWantTFC (90 GB) + 18 GB,699,90 Days
+TNT,TNTGS699,TOTAL 108 GB: 1 GB STORIES ARAW-ARAW for TikTok IG FB X Kumu (90 GB) + 18 GB,699,90 Days
 TNT,TNTMDTPLUS749,48 GB MAGIC DATA FOR ALL SITES + 600 Mins Allnet Calls + 600 Allnet Texts (NO EXPIRY),749,NO EXPIRY
-TNT,TNTDGVPLUS749,"TOTAL 132 GB: 2 GB VIDEO ARAW-ARAW for YouTube, Netflix, Smart LiveStream, iWantTFC (120 GB) + 12 GB + FREE UNLI CALLS & TEXTS.",749,60 Days
-TNT,TNTDGSPLUS749,"TOTAL 132 GB: 2 GB STORIES ARAW-ARAW for TikTok, IG, FB, X, Kumu (120 GB) + 12 GB + FREE UNLI CALLS & TEXTS.",749,60 Days
+TNT,TNTDGVPLUS749,TOTAL 132 GB: 2 GB VIDEO ARAW-ARAW for YouTube Netflix Smart LiveStream iWantTFC (120 GB) + 12 GB + FREE UNLI CALLS & TEXTS.,749,60 Days
+TNT,TNTDGSPLUS749,TOTAL 132 GB: 2 GB STORIES ARAW-ARAW for TikTok IG FB X Kumu (120 GB) + 12 GB + FREE UNLI CALLS & TEXTS.,749,60 Days
 TNT,TNTGP849,TOTAL 156 GB: 2 GB POWER ARAW-ARAW FOR ALL SITES & APPS (120 GB) + 36 GB,849,60 Days
-TNT,TNTDGVPLUS899,"TOTAL 198 GB: 2 GB VIDEO ARAW-ARAW for YouTube, Netflix, Smart LiveStream, iWantTFC (180 GB) + 18 GB + FREE UNLI CALLS & TEXTS.",899,90 Days
-TNT,TNTDGSPLUS899,"TOTAL 198 GB: 2 GB STORIES ARAW-ARAW for TikTok, IG, FB, X, Kumu (180 GB) + 18 GB + FREE UNLI CALLS & TEXTS.",899,90 Days
+TNT,TNTDGVPLUS899,TOTAL 198 GB: 2 GB VIDEO ARAW-ARAW for YouTube Netflix Smart LiveStream iWantTFC (180 GB) + 18 GB + FREE UNLI CALLS & TEXTS.,899,90 Days
+TNT,TNTDGSPLUS899,TOTAL 198 GB: 2 GB STORIES ARAW-ARAW for TikTok IG FB X Kumu (180 GB) + 18 GB + FREE UNLI CALLS & TEXTS.,899,90 Days
 TNT,TNTGP999,TOTAL 228 GB: 2 GB POWER ARAW-ARAW FOR ALL SITES & APPS (180 GB) + 48 GB,999,90 Days
 TNT,TNTALLNET999,UNLI CALLS & TEXTS + 8 GB,999,180 Days
 TNT,TNTPROMO1000,REGULAR LOAD P1000 + FREE P150 for 60 days. Valid for any promos. Non-shareable and can't be used for Value-Added Services.,1000,60 Days
