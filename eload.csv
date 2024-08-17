@@ -93,11 +93,11 @@
 109,GLOBE,GPSURF4ALL249,20GB Shareable data for all valid for 7 days,4249,7 Days,globe.png
 110,GLOBE,GO5G199,Unlimited 5G all-access data for surfing in 5G-ready areas. ( Must be registered first to a Go+ or Go90 and up promo and must have a 5G-capable device 5G SIM and in 5G-ready area ),199,7 Days,globe.png
 111,GLOBE,GO5G299,Unlimited 5G all-access data for surfing in 5G-ready areas. ( Must be registered first to a Go+ or Go90 and up promo and must have a 5G-capable device 5G SIM and in 5G-ready area ),299,15 Days,globe.png
-112,MERALCO,ILW110,,110,,kload.png
-113,MERALCO,ILW220,,220,,kload.png
-114,MERALCO,ILW330,,330,,kload.png
-115,MERALCO,ILW550,,550,,kload.png
-116,MERALCO,ILW1100,,1100,,kload.png
+112,MERALCO,ILW110,,110,Not Available,kload.png
+113,MERALCO,ILW220,,220,Not Available,kload.png
+114,MERALCO,ILW330,,330,Not Available,kload.png
+115,MERALCO,ILW550,,550,Not Available,kload.png
+116,MERALCO,ILW1100,,1100,Not Available,kload.png
 117,PLDT,PLP30,UNLIMITED LOCAL CALLS (LOCAL AREA) + PHP1.00 NDD AND IDD CALLS +TEXT MESSAGING,30,15 Days,pldt.png
 118,PLDT,PLP50,,50,15 Days,pldt.png
 119,PLDT,PLP60,,60,30 Days,pldt.png
